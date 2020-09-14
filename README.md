@@ -23,7 +23,7 @@ One of the 40 columns in the dataset encodes the Seattle Department of Transport
 
 I will use the severity codes assigned to each accident, to identify the neighbourhoods with the highest mean accident severity codes.
 
-Finally I will use the  timestamp data in order to  search for temporal variations in the rate of road accidents in Seattle. 
+Finally, I will use the  timestamp data in order to  search for temporal variations in the rate of road accidents in Seattle. 
 
 ___DATA Preprocessing___
 
