@@ -24,6 +24,6 @@ I will use the severity codes assigned to each accident, to identify the neighbo
 
 Finally I will use the  timestamp data in order to  search for temporal variations in the rate of road accidents in Seattle. 
 
-___DATA Preprocessing__ 
+___DATA Preprocessing___
 
 See next weeks assingment 
