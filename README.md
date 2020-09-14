@@ -8,7 +8,7 @@ The Seattle government is going to prevent avoidable car accidents by employing 
 In most cases, not paying enough attention during driving, abusing drugs and alcohol or driving at very high speed are the main causes of occurring accidents that can be prevented by enacting harsher regulations. Besides the aforementioned reasons, weather, visibility, or road conditions are the major uncontrollable factors that can be prevented by revealing hidden patterns in the data and announcing warning to the local government, police and drivers on the targeted roads.
 The target audience of the project is local Seattle government, police, rescue groups, and last but not least, car insurance institutes. The model and its results are going to provide some advice for the target audience to make insightful decisions for reducing the number of accidents and injuries for the city.
 
-__DATA___
+___DATA___
 
 A comprehensive dataset of 226,000 accidents occurring between 2004–2019 in the Seattle city area was obtained from the Seattle Open Data Portal. The  221,389 row dataset has 40 columns describing the details of each accident including the weather conditions, collision type, date/time of accident and location (latitude and longitude).
 I will use a Choropleth map (created using the Python Folium package) to reveal which accidents occur more frequently in specific areas of the city, 
