@@ -2,7 +2,6 @@
 
 ## CRISP DM 
 
-
 '''Business Understanding'''
 
 The Seattle government is going to prevent avoidable car accidents by employing methods that alert drivers, health system, and police to remind them to be more careful in critical situations.
