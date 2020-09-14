@@ -14,6 +14,7 @@ A comprehensive dataset of 226,000 accidents occurring between 2004–2019 in th
 I will use a Choropleth map (created using the Python Folium package) to reveal which accidents occur more frequently in specific areas of the city, 
 
 One of the 40 columns in the dataset encodes the Seattle Department of Transport (SDOT) accident severity metric, according to the following schema:
+
 0: Unknown/no data
 1: Property damage only
 2: Minor injury collision
